@@ -1,6 +1,10 @@
 # Interview_Test
 An Interview Coding Test. I don't think there are any special requirements for the class. 
 
+
+The different Versions/Steps are located under Tags v1.0 and v1.1. 
+
+
 Running:
 It simply runs via the console and takes an input file formatted like:  [Apple, Orange, ...] 
 I created 2 simply test files that can be run with it, or used as a template. 
